@@ -41,7 +41,6 @@ With just a single prompt, ReachInbox initiates a comprehensive outreach process
 7. **Light and Dark Mode**: Supports both themes.
 
 
-\
 ### **Preview**
 
 **login**
