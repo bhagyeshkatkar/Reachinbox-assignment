@@ -1,6 +1,5 @@
-![Logo](https://github.com/user-attachments/assets/11f6d9de-acd1-40b6-8d71-d885388ba808)
 
-## ** Assignment: Associate Frontend Engineer**
+## Assignment: Associate Frontend Enginee
 
 
 ### **Overview**
