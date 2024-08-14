@@ -1,5 +1,5 @@
 
-## Assignment: Associate Frontend Enginee
+## Assignment: Associate Frontend Engineer
 
 
 ### **Overview**
