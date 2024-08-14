@@ -34,4 +34,17 @@ Welcome to the ReachInbox frontend assignment repository. This project showcases
 - **Vercel**: Deployed on Vercel for hosting and continuous deployment, ensuring seamless and reliable access.
 
 ### **Preview**
+**login**
 ![image](https://github.com/user-attachments/assets/11172e5b-3fbd-46e1-909a-e9e9e8657b73)
+
+**OneBox**
+![image](https://github.com/user-attachments/assets/367b19d4-b328-42b9-be87-710941914797)
+
+**MailList**
+![image](https://github.com/user-attachments/assets/981fa4f6-5d70-40a9-b51a-b7986247aef6)
+
+**reply section**
+![image](https://github.com/user-attachments/assets/95f99725-eea1-4072-9500-d124d40c0b95)
+
+**Delete Popup**
+![image](https://github.com/user-attachments/assets/6143a1ab-c81f-41fa-80e8-4de886782fd5)
