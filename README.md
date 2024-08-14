@@ -33,4 +33,5 @@ Welcome to the ReachInbox frontend assignment repository. This project showcases
 - **TypeScript**: Integrated to provide static typing, enhancing code quality and ensuring type safety.
 - **Vercel**: Deployed on Vercel for hosting and continuous deployment, ensuring seamless and reliable access.
 
+### **Preview**
 
