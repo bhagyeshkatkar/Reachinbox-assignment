@@ -25,4 +25,12 @@ Welcome to the ReachInbox frontend assignment repository. This project showcases
      ```
 7. **Light and Dark Mode**: Supports both themes.
 
+### **Technologies**
+
+- **React.js**: Utilized for building a dynamic and responsive user interface.
+- **Tailwind CSS**: Employed for styling the application with utility-first CSS, ensuring a sleek and modern design.
+- **Vite.js**: A fast build tool that optimizes both development and production environments.
+- **TypeScript**: Integrated to provide static typing, enhancing code quality and ensuring type safety.
+- **Vercel**: Deployed on Vercel for hosting and continuous deployment, ensuring seamless and reliable access.
+
 
